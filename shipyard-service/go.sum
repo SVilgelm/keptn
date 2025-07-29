@@ -179,13 +179,6 @@ github.com/json-iterator/go v1.1.7/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/u
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
 github.com/kelseyhightower/envconfig v1.3.0 h1:IvRS4f2VcIQy6j4ORGIf9145T/AsUB+oY8LyvN8BXNM=
 github.com/kelseyhightower/envconfig v1.3.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
-github.com/keptn/go-utils v0.5.1-0.20191217082504-1522db2363bd h1:+bCZ9OTDA3k3TanItFmYWUPMZqZfCMoQdbcWsLV4Hvw=
-github.com/keptn/go-utils v0.5.1-0.20191217082504-1522db2363bd/go.mod h1:R9a1HXkD+KCrhMFbLcEhtBtHGfYwXhO6dwZzmyoE98c=
-github.com/keptn/go-utils v0.5.1-0.20191219152907-819c63561a40 h1:MPfa83heTQ4/0ZNMrvQ42243J7iiivZpPhKbv68DvO0=
-github.com/keptn/go-utils v0.5.1-0.20191219152907-819c63561a40/go.mod h1:R9a1HXkD+KCrhMFbLcEhtBtHGfYwXhO6dwZzmyoE98c=
-github.com/keptn/go-utils v0.5.1-0.20191219153532-e1c7bfff6f57/go.mod h1:R9a1HXkD+KCrhMFbLcEhtBtHGfYwXhO6dwZzmyoE98c=
-github.com/keptn/go-utils v0.5.1-0.20191220074225-a9c0ea58c00a h1:uFFGENiluQtn5ciSX4El/1HWDJ7GOMYozJIP7Rl4TF0=
-github.com/keptn/go-utils v0.5.1-0.20191220074225-a9c0ea58c00a/go.mod h1:R9a1HXkD+KCrhMFbLcEhtBtHGfYwXhO6dwZzmyoE98c=
 github.com/keptn/go-utils v0.6.0 h1:FTnr1tiGdIqWiUNccNw8KcTzrRDZSjif3v1KbJsAnQs=
 github.com/keptn/go-utils v0.6.0/go.mod h1:R9a1HXkD+KCrhMFbLcEhtBtHGfYwXhO6dwZzmyoE98c=
 github.com/kevinburke/ssh_config v0.0.0-20190725054713-01f96b0aa0cd h1:Coekwdh0v2wtGp9Gmz1Ze3eVRAWJMLokvN3QjdzCHLY=
@@ -379,8 +372,9 @@ gopkg.in/warnings.v0 v0.1.2/go.mod h1:jksf8JmL6Qr/oQM2OXTHunEvvTAsrWBLb6OOjuVWRN
 gopkg.in/yaml.v2 v2.0.0-20170812160011-eb3733d160e7/go.mod h1:JAlM8MvJe8wmxCU4Bli9HhUf9+ttbYbLASfIpnQbh74=
 gopkg.in/yaml.v2 v2.2.1/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
-gopkg.in/yaml.v2 v2.2.4 h1:/eiJrUcujPVeJ3xlSWaiNi3uSVmDGBK1pDHUHAnao1I=
 gopkg.in/yaml.v2 v2.2.4/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
+gopkg.in/yaml.v2 v2.2.8 h1:obN1ZagJSUGI0Ek/LBmuj4SNLPfIny3KsKFopxRdj10=
+gopkg.in/yaml.v2 v2.2.8/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 honnef.co/go/tools v0.0.0-20180728063816-88497007e858/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.0-20190102054323-c2f93a96b099/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 k8s.io/api v0.0.0-20190313235455-40a48860b5ab h1:DG9A67baNpoeweOy2spF1OWHhnVY5KR7/Ek/+U1lVZc=
