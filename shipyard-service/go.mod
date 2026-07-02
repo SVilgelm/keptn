@@ -9,7 +9,7 @@ require (
 	github.com/kelseyhightower/envconfig v1.3.0
 	github.com/keptn/go-utils v0.6.0
 	github.com/magiconair/properties v1.8.1
-	gopkg.in/yaml.v2 v2.2.4
+	gopkg.in/yaml.v2 v2.4.0
 )
 
 // replace cloudevents/sdk-go with version 0.7.0
